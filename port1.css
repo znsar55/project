@@ -1,0 +1,49 @@
+
+
+.box{
+
+    width: 90px;
+    height: 50px;
+    background-color: cadetblue;
+    float:none;
+    border: 3px solid black;
+
+    padding: 5px;
+    margin: 10px;
+    border-radius: 5px;
+    display: flexbox;
+    align-items: center;
+    
+}
+.container{
+    width: 850px; ;
+height: 600;
+border: crimson;
+border: 3px solid red;
+background-color: azure;
+margin: 10px; 
+border-radius: 5px; 
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+display:flexbox;
+font-style:italic;
+}
+ul{
+    list-style-type: none;
+    margin :50px;
+    padding: 2px;
+}
+li{
+    display: inline;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style:oblique;
+    
+}
+
+.nav{
+    background: #0082e6;
+    display:block;
+    height: 80px;
+    width: 100%;
+
+}
